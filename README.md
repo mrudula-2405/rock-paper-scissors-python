@@ -34,7 +34,7 @@ The computer randomly selects a move, and the program determines the winner base
 
 rock-paper-scissors-python/
 │
-├── game.py
+├── Rock_paper_scessors.py
 └── README.md
 
 ---
